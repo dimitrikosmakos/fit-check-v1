@@ -1,0 +1,234 @@
+#e33_3 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 1440px;
+  height: 900px;
+  position: absolute;
+}
+#e136_1980 {
+  background-color: rgba(
+    120.00000044703484,
+    60.00000022351742,
+    7.000000057742,
+    0.699999988079071
+  );
+  width: 420px;
+  height: 69px;
+  position: absolute;
+  left: 525px;
+  top: 177px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+#e136_1983 {
+  background-color: rgba(
+    120.00000044703484,
+    60.00000022351742,
+    7.000000057742,
+    0.699999988079071
+  );
+  width: 420px;
+  height: 69px;
+  position: absolute;
+  left: 69px;
+  top: 177px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+#e136_1982 {
+  background-color: rgba(
+    120.00000044703484,
+    60.00000022351742,
+    7.000000057742,
+    0.699999988079071
+  );
+  width: 420px;
+  height: 69px;
+  position: absolute;
+  left: 986px;
+  top: 177px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+#e47_21 {
+  color: rgb(39, 36, 36);
+  width: 425px;
+  height: 46px;
+  position: absolute;
+  left: 66px;
+  top: 189px;
+  font-family: Helvetica;
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 0;
+}
+#e136_1975 {
+  color: rgb(39, 36, 36);
+  width: 425px;
+  height: 46px;
+  position: absolute;
+  left: 985px;
+  top: 188px;
+  font-family: Helvetica;
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 0;
+}
+#e47_22 {
+  color: rgb(39, 36, 36);
+  width: 312px;
+  height: 46px;
+  position: absolute;
+  left: 580px;
+  top: 189px;
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  letter-spacing: 0;
+}
+#e78_0 {
+  border-radius: 500px;
+  width: 364px;
+  height: 366px;
+  position: absolute;
+  left: 847px;
+  top: 230px;
+}
+#e82_14 {
+  transform: rotate(-42.90984077583005deg);
+  width: 484.6906433105469px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 427px;
+}
+.slideshow {
+  position: relative;
+  overflow: hidden;
+  width: 945px;
+  height: 295px;
+  left: 248px;
+  top: 350px;
+}
+.images {
+  background: url(images/advice_collage.png);
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 300%;
+  animation: slideshow 15s linear infinite;
+  transform: translate3d(0, 0, 0);
+}
+@keyframes slideshow {
+  0% {
+    left: 0;
+  }
+  100% {
+    left: -200%;
+  }
+}
+#e145_7 {
+  transform: rotate(50.000001298001074deg);
+  background-color: rgba(
+    120.00000044703484,
+    60.00000022351742,
+    7.000000057742,
+    0.4000000059604645
+  );
+  width: 1000px;
+  height: 70px;
+  position: absolute;
+  left: -356.3768310546875px;
+  top: 460.59521484375px;
+}
+#e145_8 {
+  transform: rotate(50.000001298001074deg);
+  background-color: rgba(
+    120.00000044703484,
+    60.00000022351742,
+    7.000000057742,
+    0.4000000059604645
+  );
+  width: 700px;
+  height: 70px;
+  position: absolute;
+  left: -150px;
+  top: 750px;
+}
+#e169_0 {
+  background-color: rgba(255, 253.93750101327896, 253.93750101327896, 1);
+  width: 1440px;
+  height: 167px;
+  position: absolute;
+  left: 0px;
+  top: 900px;
+}
+#e169_1 {
+  background-color: rgba(255, 253.93750101327896, 253.93750101327896, 1);
+  width: 193px;
+  height: 1067px;
+  position: absolute;
+  left: 1440px;
+  top: 0px;
+}
+#e136_2000 {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.10000000149011612);
+  width: 1440px;
+  height: 104px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+#e136_2001 {
+  background-color: rgba(
+    169.00000512599945,
+    186.0000041127205,
+    157.0000058412552,
+    1
+  );
+  width: 1440px;
+  height: 104px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+#e136_2002 {
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  left: 1332px;
+  top: 28px;
+  background-image: url(images/eavatar_icon.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#e136_2003 {
+  color: rgba(0, 0, 0, 1);
+  width: 361px;
+  height: 52px;
+  font-weight: bold;
+  position: absolute;
+  left: 40px;
+  top: 26px;
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 52px;
+  letter-spacing: 0;
+}
+#e136_2004 {
+  background-color: rgba(0, 0, 0, 1);
+  width: 34px;
+  height: 41px;
+  position: absolute;
+  left: 1298px;
+  top: 31px;
+}

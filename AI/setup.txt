@@ -1,0 +1,9 @@
+Requirements: Conda
+dependencies.txt from teams folder "FitCheck App Files"
+Instructions:
+conda create --name fitcheck
+conda activate fitcheck (or source activate fitcheck)
+conda install pytorch torchvision torchaudio -c pytorch
+cd mmfashion
+python setup.py install
+pip install flask

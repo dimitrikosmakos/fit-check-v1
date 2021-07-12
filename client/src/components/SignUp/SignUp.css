@@ -1,0 +1,319 @@
+.signup-input {
+  background: rgba(120, 60, 7, 0);
+  opacity: 1;
+  border: 1px;
+  width: 87%;
+  height: 94%;
+  position: relative;
+  left: 30px;
+}
+.password-match-error {
+  color: rgb(255, 0, 0);
+  font-family: Helvetica Neue;
+  font-size: 12pt;
+  position: relative;
+}
+#signup_button {
+  opacity: 0;
+  z-index: 1;
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+#e86_14 {
+  overflow: hidden;
+  background-color: rgba(255, 255, 255, 1);
+  opacity: 1;
+  width: 1440px;
+  height: 900px;
+  position: absolute;
+}
+#e86_15 {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: rgba(
+    120.00000044703484,
+    60.00000022351742,
+    7.000000057742,
+    0.4000000059604645
+  );
+  opacity: 1;
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 497px;
+  height: 49px;
+  font-size: 24px;
+  position: absolute;
+  left: 475px;
+  top: 352px;
+}
+#e86_16 {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: rgba(
+    120.00000044703484,
+    60.00000022351742,
+    7.000000057742,
+    0.4000000059604645
+  );
+  opacity: 1;
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 497px;
+  height: 49px;
+  position: absolute;
+  left: 475px;
+  font-size: 24px;
+  top: 452px;
+}
+#e86_17 {
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 119px;
+  height: 30px;
+  position: absolute;
+  left: 472px;
+  top: 420px;
+  font-family: Helvetica Neue;
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e86_18 {
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 80px;
+  height: 30px;
+  position: absolute;
+  left: 468px;
+  top: 322px;
+  font-family: Helvetica Neue;
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e86_19 {
+  opacity: 1;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 483px;
+  top: 471px;
+}
+#e86_20 {
+  opacity: 1;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 484px;
+  top: 363px;
+}
+#e103_18 {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: rgba(
+    120.00000044703484,
+    60.00000022351742,
+    7.000000057742,
+    0.4000000059604645
+  );
+  width: 497px;
+  height: 49px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  opacity: 1;
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 497px;
+  height: 49px;
+  font-size: 28px;
+  position: absolute;
+  left: 474px;
+  top: 258px;
+}
+#e103_19 {
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 64px;
+  height: 29px;
+  position: absolute;
+  left: 475px;
+  top: 222px;
+  font-family: Helvetica Neue;
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e86_22 {
+  background-color: rgba(120, 60, 7, 0.7);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  opacity: 1;
+  width: 311px;
+  height: 62px;
+  position: absolute;
+  left: 564px;
+  top: 675px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+#e86_23 {
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 596px;
+  height: 69px;
+  position: absolute;
+  left: 422px;
+  top: 151px;
+  font-family: Helvetica Neue;
+  font-style: italic;
+  text-align: center;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: undefined;
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 596px;
+  height: 69px;
+  position: absolute;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#e86_25 {
+  background-color: rgba(255, 255, 255, 1);
+  opacity: 1;
+  width: 646px;
+  height: 131px;
+  position: absolute;
+  left: 397px;
+  top: 23px;
+}
+#ei86_25_43_16 {
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 646px;
+  height: 131px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  font-family: Helvetica;
+  font-weight: bold;
+  text-align: center;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e86_28 {
+  opacity: 1;
+  width: 29px;
+  height: 30px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+#e86_29 {
+  background-color: rgba(
+    254.00000005960464,
+    253.0000001192093,
+    253.0000001192093,
+    1
+  );
+  opacity: 1;
+  width: 26.583332061767578px;
+  height: 15px;
+  position: absolute;
+  left: 1.2083333730697632px;
+  top: 7.499996662139893px;
+}
+#e87_0 {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: rgba(
+    120.00000044703484,
+    60.00000022351742,
+    7.000000057742,
+    0.4000000059604645
+  );
+  opacity: 1;
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 497px;
+  height: 49px;
+  position: absolute;
+  left: 475px;
+  top: 552px;
+  font-size: 24px;
+}
+#e91_22 {
+  font-family: Helvetica;
+  font-weight: bold;
+  text-align: center;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: undefined;
+  width: 244px;
+  height: 41px;
+  position: absolute;
+  left: 597px;
+  top: 687px;
+  font-family: Helvetica Neue;
+  text-align: center;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: undefined;
+  color: rgba(69.00000348687172, 67.00000360608101, 67.00000360608101, 1);
+}
+#e91_24 {
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 200px;
+  height: 40px;
+  position: absolute;
+  left: 475px;
+  top: 520px;
+  font-family: Helvetica Neue;
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e91_26 {
+  color: rgba(255, 0, 0, 1);
+  opacity: 1;
+  width: 140px;
+  height: 14px;
+  position: absolute;
+  left: 473px;
+  top: 629px;
+  font-family: Helvetica Neue;
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e104_15 {
+  opacity: 1;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 486px;
+  top: 272px;
+  background-image: url(images/ecustomer.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#icon-envelope-2 {
+  position: absolute;
+  padding-top: 10px;
+  left: 15px;
+}
+#icon-key-2 {
+  position: absolute;
+  padding-top: 10px;
+  left: 15px;
+}
+#icon-user-2 {
+  position: absolute;
+  padding-top: 10px;
+  left: 16px;
+}

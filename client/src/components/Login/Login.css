@@ -1,0 +1,328 @@
+#e43_2 {
+  overflow: hidden;
+  background-color: rgba(255, 255, 255, 1);
+  opacity: 1;
+  width: 1440px;
+  height: 900px;
+  position: absolute;
+}
+#e43_5 {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: rgba(255, 255, 255, 1);
+  opacity: 1;
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 497px;
+  height: 49px;
+  position: absolute;
+  left: 175px;
+  top: 331px;
+  background: rgba(120, 60, 7, 0.4);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#e43_6 {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: rgba(255, 255, 255, 1);
+  opacity: 1;
+  width: 497px;
+  height: 49px;
+  background: rgba(120, 60, 7, 0.4);
+  position: absolute;
+  left: 175px;
+  top: 444px;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#e43_7 {
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 119px;
+  height: 30px;
+  position: absolute;
+  left: 172px;
+  top: 410px;
+  font-family: Helvetica Neue;
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e43_8 {
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 80px;
+  height: 30px;
+  position: absolute;
+  left: 178px;
+  top: 296px;
+  font-family: Helvetica Neue;
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e43_9 {
+  opacity: 1;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 187px;
+  top: 511px;
+}
+#e43_9_input {
+  background: rgba(120, 60, 7, 0);
+  opacity: 1;
+  border: 0ch;
+  width: 430px;
+  height: 44px;
+  position: relative;
+  left: 50px;
+  top: -30px;
+}
+#e43_10 {
+  opacity: 1;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 187px;
+  top: 362px;
+}
+#e43_11 {
+  font-size: 24px;
+  opacity: 1;
+  width: 29.166669845581055px;
+  height: 23.333332061767578px;
+  position: absolute;
+  left: 187.916748046875px;
+  top: 339.83331298828125px;
+}
+#e43_11_input {
+  background: rgba(120, 60, 7, 0);
+  opacity: 1;
+  border: 0ch;
+  width: 430px;
+  height: 44px;
+  position: relative;
+  left: 30px;
+  top: 0px;
+}
+#e43_13 {
+  background: rgba(120, 60, 7, 0.7);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  opacity: 1;
+  width: 311px;
+  height: 62px;
+  position: absolute;
+  left: 268px;
+  top: 590px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+#e43_14 {
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 596px;
+  height: 69px;
+  position: absolute;
+  left: 122px;
+  top: 191px;
+  font-family: Helvetica Neue;
+  font-style: italic;
+  text-align: center;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: undefined;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#e43_15 {
+  color: rgba(69.00000348687172, 67.00000360608101, 67.00000360608101, 1);
+  opacity: 1;
+  font-weight: bold;
+  width: 106px;
+  height: 39px;
+  position: absolute;
+  left: 377px;
+  top: 599px;
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e43_15_button {
+  opacity: 0;
+  width: 290px;
+  height: 55px;
+  position: absolute;
+  left: 275px;
+  top: 595px;
+  cursor: pointer;
+}
+#e43_21 {
+  background-color: rgba(255, 255, 255, 1);
+  opacity: 1;
+  width: 646px;
+  height: 131px;
+  position: absolute;
+  left: 97px;
+  top: 63px;
+}
+#e43_16 {
+  color: rgba(0, 0, 0, 1);
+  opacity: 1;
+  width: 646px;
+  height: 131px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: bold;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e43_17 {
+  color: rgba(120, 60, 7, 0.5);
+  opacity: 1;
+  width: 377px;
+  height: 29px;
+  position: absolute;
+  left: 235px;
+  top: 686px;
+  font-family: Helvetica Neue;
+  font-style: italic;
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+#e43_17_button {
+  opacity: 0;
+  width: 377px;
+  height: 60px;
+  position: absolute;
+  left: 235px;
+  top: 686px;
+  cursor: pointer;
+}
+#e43_18 {
+  font-size: 24px;
+  opacity: 1;
+  width: 29px;
+  height: 30px;
+  position: absolute;
+  left: 188px;
+  top: 454px;
+}
+#e43_19 {
+  opacity: 1;
+  width: 29px;
+  height: 30px;
+  position: absolute;
+  left: -300px;
+  top: 0px;
+}
+#e43_20 {
+  background-color: rgba(
+    254.00000005960464,
+    253.0000001192093,
+    253.0000001192093,
+    1
+  );
+  opacity: 1;
+  width: 26.583332061767578px;
+  height: 15px;
+  position: absolute;
+  left: -299.2083333730697632px;
+  top: 7.499996662139893px;
+}
+#e134_0 {
+  transform: rotate(-50.000001298001074deg);
+  background-color: rgba(
+    120.06249949336052,
+    60.490523502230644,
+    6.5033890306949615,
+    0.4000000059604645
+  );
+  position: absolute;
+  top: 495px;
+  left: 850px;
+  width: 775.1265258789062px;
+  height: 70px;
+}
+#e135_21 {
+  transform: rotate(-50.000001298001074deg);
+  background-color: rgba(
+    120.06249949336052,
+    60.490523502230644,
+    6.5033890306949615,
+    0.4000000059604645
+  );
+  position: absolute;
+  top: 700px;
+  left: 900px;
+  width: 700px;
+  height: 70px;
+}
+.home-slideshow {
+  position: relative;
+  overflow: hidden;
+  top: 120px;
+  left: 1050px;
+  width: 192px;
+  height: 635px;
+}
+.home-images {
+  background: url(images/advice_collage2.png);
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 400%;
+  width: 100%;
+  animation: home-slideshow 10s linear infinite;
+  transform: translate3d(0, 0, 0);
+}
+@keyframes home-slideshow {
+  0% {
+    top: 0;
+  }
+  100% {
+    top: -200%;
+  }
+}
+#e158_1 {
+  background-color: rgba(255, 253.93750101327896, 253.93750101327896, 1);
+  width: 1440px;
+  height: 300px;
+  top: 800px;
+  position: absolute;
+  z-index: 1;
+}
+#e159_1_2 {
+  background-color: rgba(255, 253.93750101327896, 253.93750101327896, 1);
+  width: 193px;
+  top: 0px;
+  height: 1067px;
+  left: 1450px;
+  position: absolute;
+  z-index: 1;
+}
+#incorrect-pass {
+  color: red;
+  opacity: 1;
+  width: 150px;
+  height: 30px;
+  position: absolute;
+  left: 172px;
+  top: 500px;
+  font-family: Helvetica Neue;
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 0;
+}
